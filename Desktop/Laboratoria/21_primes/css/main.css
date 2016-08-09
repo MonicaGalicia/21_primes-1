@@ -84,3 +84,35 @@ h1 {
 .pull-center {
 	margin:0px 55px;
 }
+form { /* formulario*/
+	width: 550px;
+	background: rgba(0,0,0,.1);
+	padding: 20px 30px;
+	margin: 20px 30px;
+	border-radius: 10px;
+	box-sizing: border-box;
+	opacity: 0.8;
+}
+h2 {
+	color: white;
+	margin: 10px;
+	font-size: 30px;
+}
+input, textarea {
+	width: 100%;
+	padding: 10px;
+	font-size: 14px;
+	margin: 10px;
+	color: white;
+}
+textarea {
+	min-height: 100px;
+	max-height: 200px;
+	max-width: 100%;
+}
+#botonform {
+	background-color: #5BDACE;
+	color: white;
+	padding: 10px; 
+	margin: 10px;
+}
