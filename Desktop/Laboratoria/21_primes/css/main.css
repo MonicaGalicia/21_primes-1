@@ -1,0 +1,35 @@
+#fondo1 {  /* header pao*/
+	background-image: url("../img/background/hero_1.jpg");
+	width: 100%;
+	height: 650px;
+	background-size: 100%;
+	opacity: 0.9;
+}
+.amenu {
+	font-size: 20px;
+	margin:35px 20px;
+}
+#marmenu {
+	margin-right: 150px;
+}
+h1 {
+	margin-top: 200px;
+}
+.margin1 {
+	margin: 40px 0px;
+}
+.botonheader {
+	color: white;
+	padding: 15px;
+	border: none; 
+	margin: 0px 15px;
+}
+.bg-gris {
+	background-color: #212121;
+}
+.bg-trans {
+	background: rgba(255, 255, 255,.1);
+}
+.botonesh {
+	margin:0px 40%;
+}
