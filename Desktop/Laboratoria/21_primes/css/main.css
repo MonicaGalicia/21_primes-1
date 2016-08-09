@@ -48,3 +48,39 @@ h1 {
 	padding: 10px;
 	width: 45%;
 }
+
+#fondo2 {  /* seccion pao*/
+	background-image: url("../img/background/city.jpg");
+	width: 100%;
+	height: 400px;
+	background-size: 100%;
+}
+.bg-darkgray {
+	background-color:lightgray;
+}
+.bg-white{
+	background-color: white;
+}
+.textf2 {
+	padding: 120px 0px;
+}
+.textti1 {
+	margin:20px;
+	font-size: 25px;
+}
+.cajafo {
+	width: 300px;
+	padding: 20px;
+	margin: 20px;
+	border: 1px solid gray;
+}
+.textrell {
+	padding: 20px;
+	margin:10px;
+}
+.rell1 {
+	background-color: #5BDACE;
+}
+.pull-center {
+	margin:0px 55px;
+}
